@@ -1,0 +1,15 @@
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\bin\Debug\net6.0\Utilities.DataAccess.exe
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\bin\Debug\net6.0\Utilities.DataAccess.deps.json
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\bin\Debug\net6.0\Utilities.DataAccess.runtimeconfig.json
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\bin\Debug\net6.0\Utilities.DataAccess.dll
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\bin\Debug\net6.0\Utilities.DataAccess.pdb
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\obj\Debug\net6.0\Utilities.DataAccess.csproj.AssemblyReference.cache
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\obj\Debug\net6.0\Utilities.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\obj\Debug\net6.0\Utilities.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\obj\Debug\net6.0\Utilities.DataAccess.AssemblyInfo.cs
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\obj\Debug\net6.0\Utilities.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\obj\Debug\net6.0\Utilities.DataAccess.dll
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\obj\Debug\net6.0\refint\Utilities.DataAccess.dll
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\obj\Debug\net6.0\Utilities.DataAccess.pdb
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\obj\Debug\net6.0\Utilities.DataAccess.genruntimeconfig.cache
+C:\Users\nayan.ramesh.mistry\Desktop\Practice\CSharp\Utilities\Utilities.DataAccess\obj\Debug\net6.0\ref\Utilities.DataAccess.dll
